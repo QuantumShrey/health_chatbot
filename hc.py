@@ -80,4 +80,3 @@ def chatbot():
 if __name__ == "__main__":
     chatbot()
 
-streamlit run hc.py
